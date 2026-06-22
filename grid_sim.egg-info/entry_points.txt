@@ -1,0 +1,2 @@
+[console_scripts]
+grid-sim = grid_sim.cli:cli

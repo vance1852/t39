@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: grid-sim
+Version: 0.1.0
+Summary: 小型配电网保供策略模拟器
+Requires-Python: >=3.9
+Requires-Dist: click>=8.0
+Requires-Dist: networkx>=2.6
+Requires-Dist: pydantic>=2.0
+Requires-Dist: rich>=12.0
+Requires-Dist: numpy>=1.21
+Requires-Dist: pandas>=1.3
